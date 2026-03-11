@@ -1,0 +1,57 @@
+*{
+    margin :0;
+    border :0;
+    text-align:center;
+    box-sizing:border-box;
+}
+h1{
+    background-color: aquamarine;
+    color-interpolation-filters: linearRGB;
+    height: 50px;
+}
+.choices{
+    align-items: flex-start;
+    display:flex;
+}
+.choice img{
+    height:150px;
+    width:150px;
+    object-fit: cover;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+}
+.choice:hover{
+    cursor:pointer;
+    background-color:pink;
+}
+#paper{
+    height:165px;
+    width:165px;
+}
+
+#rock{
+    height:165px;
+    width:165px;
+}
+#scissors{
+    height:150px;
+    width:150px;
+}
+.score{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    margin-top:3 rem;
+    gap:5rem;
+}
+ .msg-container{
+    padding: 5%;
+    border: 5rem;
+    background-color: aqua;
+    border-radius: 10rem;
+    accent-color: blue;
+    font-size: 2rem;
+}
+ 
