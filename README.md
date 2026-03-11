@@ -9,7 +9,7 @@ The user plays against the computer, and the scores update dynamically after eve
 ## 🚀 Live Demo
 
 Play the game here:
-https://bhupalamharini123.github.io/crazy-game/
+(https://bhupalamharini123.github.io/game-crazy/)
 
 ## 📌 Features
 
